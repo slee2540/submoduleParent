@@ -1,0 +1,3 @@
+[submodule "submoduleChild"]
+	path = submoduleChild
+	url = https://github.com/slee2540/submoduleChild.git
