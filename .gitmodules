@@ -1,3 +1,3 @@
-[submodule "submoduleChild"]
-	path = submoduleChild
+[submodule "src/css"]
+	path = src/css
 	url = https://github.com/slee2540/submoduleChild.git
